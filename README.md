@@ -8,7 +8,7 @@ This use case is for the contractors, economy and Client (Bygherre) so he/she ca
 ## What disciplinary (non BIM) expertise did you use to solve the use case
 We have made a BPMN to find out the steps we are going thrue
 ![image](https://github.com/AnjaHolmquist/Group11-Assignments/blob/main/BPMN.png)
-you can download the file on top of this page (diagram-Group11 (2).bpmn)
+you can download the file in BPMN
 and open it in [BPMN online](https://demo.bpmn.io/). 
 
 ## What IFC concepts did you use in your script (would you use in your script)
