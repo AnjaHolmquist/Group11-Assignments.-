@@ -1,4 +1,4 @@
-# Group11-Assignments
+# Group11-Assignment 1
 ## Describe the use case you have chosen
 Cost with focus om the walls
 
