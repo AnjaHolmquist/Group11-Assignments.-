@@ -18,5 +18,5 @@
 Yes.
 We are trying to make a cost plan for the exterior walls.
 
-# The license
-We do not understand how we can ad a license for our Github, but we think it shud be a MIT
+## The license
+We have chosen a GNU license based on the link you have shared with in the task description. we have chosen this because we want our files to be easily accessible and easy to make changes to for everyone.
